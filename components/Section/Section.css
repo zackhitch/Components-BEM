@@ -1,12 +1,11 @@
 .Section {
-    border: 2px solid black;
+    border: 1px solid black;
+    display: flex;
 }
 
 .Section__header {
-    display: flex;
     max-width: 100%;
     padding: 20px;
-    /* justify-content: center; */
 }
 
 .Dropdown {
@@ -18,15 +17,15 @@
 }
 
 .Section__header-content {
-    border: 2px solid red;
     font-size: 40px;
     font-weight: bold;
+    margin-left: 520px;
 }
 
-.Section__flex {
+/* .Section__flex {
     max-width: 100%;
     display: flex;
-}
+} */
 
 .Section__content {
     padding: 20px;
