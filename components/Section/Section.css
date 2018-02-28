@@ -19,13 +19,8 @@
 .Section__header-content {
     font-size: 40px;
     font-weight: bold;
-    margin-left: 520px;
+    margin: 0 38%;
 }
-
-/* .Section__flex {
-    max-width: 100%;
-    display: flex;
-} */
 
 .Section__content {
     padding: 20px;
